@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Premium Domestic Manpower Assistance, Inc.</string>
+    <string name="message_intro">Welcome to PDMA Android Application!</string>
 </resources>
